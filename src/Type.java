@@ -7,7 +7,7 @@ public enum Type
 	feu ("feu", Arrays.asList("eau")),
 	plante ("plante", Arrays.asList("jenesaispas"));
 
-	// Attribut
+	// Attributs
 	private String type;
 	private List<String> faiblesse;
 
